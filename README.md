@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Goutam Prajapat</h1>
 <h3 align="center">aka Developergtm - A Passionate Full Stack Developer, Freelancer, and Tech Creator 🚀</h3>
 
-- 🌐 Portfolio: [codemastergoutam.com](https://codemastergoutam.com)
+- 🌐 Portfolio: [https://developergtm.co.in/]
 - 📚 Final Year BCA Student @ SP College Sirohi (MLSU)
 - 🧑‍💻 I love creating apps for people who don't have PCs 💡
 - 📩 Reach me: [officialgoutam23@gmail.com](mailto:officialgoutam23@gmail.com)
