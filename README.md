@@ -4,7 +4,7 @@
 <h3 align="center">aka Developergtm - A Passionate Full Stack Developer, Freelancer, and Tech Creator 🚀</h3>
 
 - 🌐 Portfolio: [https://developergtm.co.in/]
-- 📚 Final Year BCA Student @ SP College Sirohi (MLSU)
+- 📚 Final Year BCA Student MLSU
 - 🧑‍💻 I love creating apps for people who don't have PCs 💡
 - 📩 Reach me: [officialgoutam23@gmail.com](mailto:officialgoutam23@gmail.com)
 
